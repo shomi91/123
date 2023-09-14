@@ -1,0 +1,17 @@
+h1{
+    color: brown;
+}
+.logo{
+    width: 70px;
+}
+ul{
+    list-style: none;
+    padding: 0%;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:red;
+}
